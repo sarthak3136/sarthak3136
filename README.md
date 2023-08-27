@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello There:
 ## About Me<br><br>👋 Hi there! I'm Sarthak Patel, a passionate Software Developer currently pursuing my Master's degree at Dalhousie University. I'm actively on the lookout for co-op and full-time opportunities in the software industry.<br><br>🚀 In the ever-evolving tech landscape, I'm not content with the status quo. I'm actively exploring the vast realms of cloud technologies, DevOps, and software development methodologies. The thrill of diving into the unknown and mastering new concepts fuels my passion.<br><br>🌟 Here are a few things that describe me:<br><br>- 💻 Software Developer in the making.<br>- 📚 Lifelong learner and tech enthusiast.<br>- ☁️ Exploring the realms of cloud technologies.<br>- 🌐 Transforming ideas into impactful solutions.<br><br>Let's connect and collaborate on exciting projects! Feel free to reach out to me through my GitHub profile or via [email](mailto:sr555161@dal.ca). Together, we can build amazing software solutions and make a difference in the tech world! 🌍<br>
 
 
